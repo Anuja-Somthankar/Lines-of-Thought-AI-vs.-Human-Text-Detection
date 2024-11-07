@@ -1,4 +1,5 @@
 *.csv
 *.pt
+*.jsonl
 results
 intermediates
